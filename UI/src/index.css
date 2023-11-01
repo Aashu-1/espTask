@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family: "Balthazar", serif;
+  font-family: "Josefin Sans", sans-serif;
+  font-family: "Roboto Slab", serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
